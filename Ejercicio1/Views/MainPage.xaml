@@ -34,8 +34,8 @@
                     Padding="5"
                     HorizontalOptions="Center"
                     />
-                <HorizontalStackLayout>
-                    
+                <HorizontalStackLayout
+                    HorizontalOptions="Center">
                     <Label
                         Text="Name:"
                         FontAttributes="Bold"
@@ -44,7 +44,7 @@
 
                     <Entry
                         BackgroundColor="AliceBlue"
-                        MinimumWidthRequest="250"
+                        MinimumWidthRequest=MainDisplayInfo
                         />
                     
                 </HorizontalStackLayout>

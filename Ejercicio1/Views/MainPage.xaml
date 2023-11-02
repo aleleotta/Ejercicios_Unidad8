@@ -44,7 +44,7 @@
 
                     <Entry
                         BackgroundColor="AliceBlue"
-                        MinimumWidthRequest=MainDisplayInfo
+                        MinimumWidthRequest="250"
                         />
                     
                 </HorizontalStackLayout>

@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\aleleotta\Documents\GitHub\Ejercicios_Unidad8_1\Ejercicios_Unidad8\Ejercicio1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-02T13:15:55.278</Modified>
+      <Modified>2023-11-03T08:28:16.616</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Ejercicios_Unidad8_1\Ejercicios_Unidad8\Ejercicio1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-02T13:15:55.082</Modified>
+      <Modified>2023-11-03T08:28:16.301</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Ejercicios_Unidad8_1\Ejercicios_Unidad8\Ejercicio1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Ejercicio1.runtimeconfig.json">
       <PackagePath>Ejercicio1.runtimeconfig.json</PackagePath>

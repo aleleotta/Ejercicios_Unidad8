@@ -3,14 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Ejercicio2.MainPage">
 
-    <FlexLayout>
-        <FlexLayout></FlexLayout>
-        <FlexLayout>
-            <FlexLayout></FlexLayout>
-            <FlexLayout></FlexLayout>
-            <FlexLayout></FlexLayout>
-        </FlexLayout>
-        <FlexLayout></FlexLayout>
+    <FlexLayout Wrap="Wrap" JustifyContent="SpaceAround">
+        <BoxView BackgroundColor="AliceBlue" FlexLayout.Basis="Auto"></BoxView>
+        <BoxView BackgroundColor="Blue" FlexLayout.Basis="Auto"></BoxView>
     </FlexLayout>
-    
+
 </ContentPage>
